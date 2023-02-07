@@ -1,7 +1,5 @@
 # Chase-and-Defend
 
-#This is a two-player python game I made, using the Turtle package. The game has a blue and a red square. The red square's goal is to touch the blue square. The blue square's goal is the eliminate the red square by shooting with bullets that go to its cursor (you have zero ammo to start, but you could reload to get a bullet). Blue controls: W : jump, A : left, D : right, S : down, R : reload. Red controls: Arrow keys
-
 import turtle
 
 sc = turtle.Screen()
